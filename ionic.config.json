@@ -1,0 +1,7 @@
+{
+  "name": "test4gig",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
